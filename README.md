@@ -1,7 +1,8 @@
 # Hi there, I'm Przemek! 👋
 
 ## 💻 About Me
-I'm an aspiring **Data Engineer** passionate about using cloud technologies to solve complex big data challenges. Currently, I'm working on a **data streaming project** and continuously expanding my expertise in cutting-edge tools and technologies.
+I'm a huge **Data Enthusiast**, passionate about using cloud technologies to solve big data challenges. Recently, I've worked on a **data streaming project** and I encourage you to check out my repository.  
+I am continuously expanding my expertise in cutting-edge tools and technologies.
 
 ## 🛠️ My Tech Stack
 - **Languages & Tools**:
@@ -16,9 +17,9 @@ I'm an aspiring **Data Engineer** passionate about using cloud technologies to s
   - dbt
   
 - **Current Focus**: 
-  - Data streaming
+  - Data orchestration
   - big data processing
-  - cloud computing
+  - cloud solutions
 
 ## 🚀 Career Goals
 I aim to leverage cloud platforms to design and implement scalable data solutions that address real-world challenges. My focus is on crafting efficient data pipelines, optimizing performance, and exploring new technologies to drive innovation.
@@ -33,6 +34,6 @@ I love learning and discovering new things every day, whether it’s a new frame
 - **Relator**: I build deep, meaningful relationships.
 - **Responsibility**: I take ownership of what I commit to.
 
-Feel free to connect with me or explore my repositories! I’m always open to collaborate and learn from others in the data engineering space. 
+Feel free to connect with me or explore my repositories! I’m open to collaborate and learn from others in the data engineering space. 
 
 📫 **Reach out to me**: [LinkedIn profile](https://www.linkedin.com/in/kuta-przemyslaw/)
