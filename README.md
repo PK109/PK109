@@ -1,7 +1,7 @@
 # Hi there, I'm Przemek! 👋
 
 ## 💻 About Me
-I'm a huge **Data Enthusiast**, passionate about using cloud technologies to solve big data challenges. Recently, I've worked on a **data streaming project** and I encourage you to check out my repository.  
+I'm a huge **Data Enthusiast**, passionate about using cloud technologies to solve big data challenges. Recently, I've worked on a **e-commerce workflow** and I encourage you to check out my repository.  
 I am continuously expanding my expertise in cutting-edge tools and technologies.
 
 ## 🛠️ My Tech Stack
@@ -9,12 +9,13 @@ I am continuously expanding my expertise in cutting-edge tools and technologies.
   - Python
   - SQL
   - Docker
-  - sklearn
-  - Pandas
-  - Mage.ai
+  - GCP (BigQuery, VMs, GCS)
+  - Terraform
+  - Orchestration tools
   - Kafka
   - Spark
   - dbt
+  - Linux
   
 - **Current Focus**: 
   - Data orchestration
@@ -25,7 +26,7 @@ I am continuously expanding my expertise in cutting-edge tools and technologies.
 I aim to leverage cloud platforms to design and implement scalable data solutions that address real-world challenges. My focus is on crafting efficient data pipelines, optimizing performance, and exploring new technologies to drive innovation.
 
 ## 🌱 I’m Always Learning
-I love learning and discovering new things every day, whether it’s a new framework, methodology or DE tool. My curiosity drives me to stay updated and continuously improve my skill set.
+I love learning and discovering new things every day, whether it’s a new framework, methodology or tool. My curiosity drives me to stay updated and continuously improve my skill set.
 
 ## 💡 Gallup Strengths
 - **Learner**: I have a passion for continuous learning.
